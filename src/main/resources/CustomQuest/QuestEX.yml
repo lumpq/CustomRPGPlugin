@@ -1,0 +1,4 @@
+운지:
+  type: conversation
+  conv:
+    - "text"

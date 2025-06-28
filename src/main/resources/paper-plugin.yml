@@ -1,0 +1,10 @@
+name: CustomRPGPlugin
+version: '1.0.0-build#1'
+main: com.github._LumPq_.customRPGPlugin.CustomRPGPlugin
+api-version: '1.21'
+commands:
+  customrpgplugin:
+    permission: crp.admin
+permissions:
+  crp.admin:
+    default: op
